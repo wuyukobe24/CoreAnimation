@@ -15,6 +15,7 @@
 		F1F1F5CF1F31AF13004777B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1F1F5CD1F31AF13004777B4 /* LaunchScreen.storyboard */; };
 		F1F1F5DA1F31AF13004777B4 /* __AnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F1F5D91F31AF13004777B4 /* __AnimationTests.m */; };
 		F1F1F5E51F31AF13004777B4 /* __AnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F1F5E41F31AF13004777B4 /* __AnimationUITests.m */; };
+		F1F1F5F41F31C8FB004777B4 /* AnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F1F5F31F31C8FB004777B4 /* AnimationViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		F1F1F5E01F31AF13004777B4 /* 动画AnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "动画AnimationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1F1F5E41F31AF13004777B4 /* __AnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __AnimationUITests.m; sourceTree = "<group>"; };
 		F1F1F5E61F31AF13004777B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1F1F5F21F31C8FB004777B4 /* AnimationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimationViewController.h; sourceTree = "<group>"; };
+		F1F1F5F31F31C8FB004777B4 /* AnimationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnimationViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				F1F1F5C31F31AF13004777B4 /* AppDelegate.m */,
 				F1F1F5C51F31AF13004777B4 /* ViewController.h */,
 				F1F1F5C61F31AF13004777B4 /* ViewController.m */,
+				F1F1F5F21F31C8FB004777B4 /* AnimationViewController.h */,
+				F1F1F5F31F31C8FB004777B4 /* AnimationViewController.m */,
 				F1F1F5C81F31AF13004777B4 /* Main.storyboard */,
 				F1F1F5CB1F31AF13004777B4 /* Assets.xcassets */,
 				F1F1F5CD1F31AF13004777B4 /* LaunchScreen.storyboard */,
@@ -279,6 +284,7 @@
 				F1F1F5C71F31AF13004777B4 /* ViewController.m in Sources */,
 				F1F1F5C41F31AF13004777B4 /* AppDelegate.m in Sources */,
 				F1F1F5C11F31AF13004777B4 /* main.m in Sources */,
+				F1F1F5F41F31C8FB004777B4 /* AnimationViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
